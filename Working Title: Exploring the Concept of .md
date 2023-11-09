@@ -2,7 +2,7 @@ Working Title: Exploring the Concept of Visual ‚Genotype -> Phenotype‘ Predi
 
 Key Words:
 
-Criminology 
+Criminology
 Data Ownership and profit making with DNA
 Speculative biology/evolution
 Creation / Gods / Tech-Gods / Playing/Becoming God / Artificial Worlds/Life / Simulation
