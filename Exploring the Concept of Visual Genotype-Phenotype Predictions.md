@@ -13,7 +13,7 @@ This chapter provides an introduction to the concept of predicting genotype-phen
 
 The genotype represents the total amount of genetic information of an organism. [Different variants of the same gene.] In contrast, the phenotype is the set of observable physical or biochemical characteristics of an organism. The phenotype arises from the interaction of many different genes, and additionally their interaction with many different environmental variables, such as abiotic factors, culture, or symbionts. [quote]
 
-different Phenotypes - fitness, observable physical, biochemical compounds
+different Phenotypes - fitness, 
 
 Representations of the genotype - phenotype relationship in maps and as differential view ...
 ??
